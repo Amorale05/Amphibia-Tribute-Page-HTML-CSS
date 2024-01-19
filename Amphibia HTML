@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AMPHIBIA</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <main id="main">
+    <div class="header">
+    <h1 id="title">AMPHIBIA</h1>
+    <p>Stranded in another world</p>
+    </div>
+    <div id="img-div">
+      <img id="image" src="https://64.media.tumblr.com/b3d5259beee935063d120bea05d507ec/93b7562e1ee2baee-95/s1280x1920/17770b97b1bafd9df956692d185befb6f605812e.jpg" alt="All Amphibia Characters">
+      <figcaption id="img-caption">Amphibia have over 60 original characters</figcaption>
+    </div>
+    <section id="tribute-info">
+      <h2>Here are some of my favorite moments of the show</h2>
+      <ul>
+        <li>The very first moment Anne meets Sprig</li>
+        <li>The first time we see what happened to Sasha</li>
+        <li>The first Anne Vs. Sasha battle</li>
+        <li>The Gravity Falls Crossover</li>
+        <li>The Grimme & Sasha Vs. Yunan battle</li>
+        <li>When Anne is finnally reunited with Marcy</li>
+        <li>Everytime they got a gem at the 3 temples</li>
+        <li>The first Anne, Sasha and Marcy renuion</li>
+        <li>Complete True Colors episode</li>
+        <li>When we see what happened to Sasha after Anne crossed the portal</li>
+        <li>When we see Darcy for the first time</li>
+        <li>The defeat of King Andrias</li>
+        <li>The encounter of Anne with the guardian of the Gems</li>
+        <li>The Calamity Trio as adults</li>
+      </ul> 
+      <p class="quote"><em>"Change can be difficult, but it's how we grow. It can be the hardest thing to realize you can hold on something forever. Sometimes... You have to let it go. But of the things you let go, you'd be surprised what makes it's way back to you." <strong>-- Anne Boonchuy</strong></em></p>
+    </section>
+    <p>If you love the show too, you're always welcome to watch it again for free in <a href="https://www.elmundodeanneysprig.com/" id="tribute-link" target="_blank">El Mundo de Anne y Sprig</a>.</p>
+  </main>
+</html>
